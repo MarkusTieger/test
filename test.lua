@@ -1,7 +1,7 @@
 
 function onLoaded ()
   
-  print("Hello World")
+  logger.info("Hello World")
   
 end
 
